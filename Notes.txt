@@ -2,6 +2,7 @@ Sekancios uzduotys
 
 - pakeisti srifta
 - spalvos
-- limituoti teksto ploti
+- limituoti teksto ploti (norim, jog butu puse ekrano ploto)
 - fonas (splava)
 
+- paviesinti koda (GitHub Pages)
